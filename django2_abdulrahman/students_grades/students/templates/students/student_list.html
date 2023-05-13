@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Students</title>
+</head>
+<body>
+    <h1>Students:</h1>
+    <ul>
+        {% for object in object_list %}
+        <li>{{ object.f_name }} {{ object.l_name }} : {{ object.age }} years old<br/>
+            {{object.id}}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
