@@ -7,8 +7,18 @@
 ![](https://github.com/abdulrahman102/Django2-students/blob/master/screenshots/2.png)  
 
 
-#### **3. Add records to tables by python shell.**  
+#### **3. Add records to tables by python shell.** 
+
+- ##### Create.
 ![](https://github.com/abdulrahman102/Django2-students/blob/master/screenshots/4.png)
+
+- #### Update.
+![](https://github.com/abdulrahman102/Django2-students/blob/master/screenshots/14.png)
+
+- #### Delete.
+![](https://github.com/abdulrahman102/Django2-students/blob/master/screenshots/15.png)
+
+
 
 
 
