@@ -1,6 +1,6 @@
-### Students -Django PROJECT-
+### **Students -Django PROJECT-**
 
-### Sorry for the inconvenient in naming the project student_grades as I realized after finishing it :D .
+### ( Sorry for the inconvenient in naming the project student_grades as I realized after finishing it :D ).
 
 #### **1. Add desired tables (models) as classes with fields declared.**  
 ![](https://github.com/abdulrahman102/Django2-students/blob/master/screenshots/1.png)  
